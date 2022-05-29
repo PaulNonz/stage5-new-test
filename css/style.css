@@ -1,0 +1,126 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bk{
+    background-image: url('../img/2.JPG') ;
+}
+
+.t-va{
+    color: #26579f ;
+}
+p{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 300 !important;
+    font-size: 15px;
+}
+.fg{
+    background-image: url('../img/fg.WEBP');
+    background-position: 50%;
+    padding-top: 3%;
+}
+.hero-section, .about-hero-section, .contact-hero-section, .gallery-hero-section{
+    height: 520px;
+    background-position: 10% 0%;
+}
+.hero-section{
+    background-image: url('../img/2.JPG');
+}
+.about-hero-section{
+    background-image: url('../img/7.JPG');
+}
+.contact-hero-section{
+    background-image: url('../img/contact.WEBP');
+}
+.gallery-hero-section{
+    background-image: url('../img/g5.WEBP');
+}
+.two{
+    background-image: url('../img/5.JPG');
+    background-position: 0% 50%;
+}
+.three{
+    background-image: url('../img/3.JPG');
+}
+body .customer-section img{
+    width: 70% !important;
+    height: auto !important;
+}
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.14);
+    transition: 0.3s;
+}
+.services-section .card:hover{
+    box-shadow: 0 9px 19px 0 rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+    background-color: #8b7d79;
+    color: #F2F2F2 !important;
+}
+.card:hover h4{
+    color: #efd7b4  !important;
+}
+.card:hover .de{
+    background-color: rgb(244, 47, 83) !important;
+    border-radius: 18px;
+}
+.card:hover .fc{
+    background-color: rgb(253, 249, 249) !important;
+}
+.card img{
+    background-repeat: no-repeat;
+}
+.card:hover h5{
+    color: blue ;
+}
+.card:hover img{
+    opacity: 0.87;
+    transition: 0.6s;
+    padding: 1.1%;
+    background-color:#eed4af !important;
+}
+a .fo{
+    font-size: 11px;
+}
+
+.tx{
+    font-size: 13px !important;
+    margin-top: -1.4% !important;
+}
+.ma{
+    margin-top: -0.5% !important;
+}
+
+#txt-12{
+    font-size: 12px !important;
+}
+.light-col{
+    background-color: #eed4af;
+}
+.red-col{
+    color: red;
+}
+#reduce{
+    width: 40px !important; 
+    margin-left: 1% !important;
+}
+.play{
+    width: 27px; 
+}
+#about-img{
+    width: 8.5%;
+    height: auto;
+}
+
+#widt-100{
+    width: 100% !important;
+}
+
+.m-n2{
+    margin-top: -2% !important;
+}
+#hight{
+    height: 250px;
+}
